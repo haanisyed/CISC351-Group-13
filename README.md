@@ -4,3 +4,5 @@ Research Topic: Autonomous Vehicles detecting adversarial attacks to vision obje
 Dataset: Autonomous Driving Images dataset of Queen's Reliable Software Technology Laboratory
 
 Group Members: Haani Syed, Anneth Sivakumar, Viren Tated, Sidhardh Alluri
+
+Queen's School of Computing Lobot Cluster 
