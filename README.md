@@ -5,4 +5,4 @@ Dataset: Autonomous Driving Images dataset of Queen's Reliable Software Technolo
 
 Group Members: Haani Syed, Anneth Sivakumar, Viren Tated, Sidhardh Alluri
 
-Queen's School of Computing Lobot Cluster 
+Supercomputer: Queen's School of Computing Lobot Cluster 
