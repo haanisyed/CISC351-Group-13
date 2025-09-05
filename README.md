@@ -44,7 +44,6 @@ COCO Dataset: https://cocodataset.org/
 - 2x RTX A5000 (24G) GPUs
 - 256G RAM
 - 32 cores ADM Epyc 2.6/3.3GHz
-- Queen's School of Computing Lobot Cluster
 
 
 ## Setup Instructions
