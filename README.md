@@ -3,7 +3,7 @@
 **Authors**: Haani Syed, Viren Tated, Anneth Sivakumar, Sidhardh Alluri
 
 ## Overview
-This repository contains all code to replicate our study on the object detection security of autonomous vehicles.
+This repository contains all code to replicate our research study on the object detection security of autonomous vehicles.
 
 ## Datasets
 
